@@ -14,5 +14,13 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
   ]
 }

@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Ressourcen & Materialien.md",
+                "file": "05 Projektideen.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Ressourcen & Materialien.md",
+                "file": "05 Projektideen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Ressourcen & Materialien.md",
+                "file": "05 Projektideen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Ressourcen & Materialien.md"
+                "file": "05 Projektideen.md"
               }
             }
           },
@@ -214,13 +214,13 @@
   },
   "active": "42853291d6b6de0e",
   "lastOpenFiles": [
+    "04 Ressourcen & Materialien.md",
     "03 Teil 2 - Praxis & Fortgeschrittenes.md",
     "03 Teil 1 - Theorie & Grundlagen.md",
     "00 Überblick.md",
     "02 Brainstorm.md",
     "01 Zielstellung.md",
     "05 Projektideen.md",
-    "04 Ressourcen & Materialien.md",
     "README.md",
     "Konkret.md",
     "Teilnehmer*innen.md",
