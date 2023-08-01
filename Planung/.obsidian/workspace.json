@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teil 1 - Theorie & Grundlagen.md",
+                "file": "03 Teil 1 - Theorie & Grundlagen.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Zielstellung.md",
+                "file": "04 Ressourcen & Materialien.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projektideen.md",
+                "file": "05 Projektideen.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projektideen.md",
+                "file": "05 Projektideen.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 287.5
   },
   "right": {
     "id": "2699d5caf689d3cb",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Zielstellung.md",
+                "file": "04 Ressourcen & Materialien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Zielstellung.md",
+                "file": "04 Ressourcen & Materialien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Zielstellung.md"
+                "file": "04 Ressourcen & Materialien.md"
               }
             }
           },
@@ -214,15 +214,15 @@
   },
   "active": "42853291d6b6de0e",
   "lastOpenFiles": [
+    "03 Teil 2 - Praxis & Fortgeschrittenes.md",
+    "03 Teil 1 - Theorie & Grundlagen.md",
     "00 Überblick.md",
-    "Brainstorm.md",
+    "02 Brainstorm.md",
     "01 Zielstellung.md",
-    "Ressourcen & Materialien.md",
+    "05 Projektideen.md",
+    "04 Ressourcen & Materialien.md",
     "README.md",
-    "Projektideen.md",
-    "Teil 2 - Praxis & Fortgeschrittenes.md",
     "Konkret.md",
-    "Teil 1 - Theorie & Grundlagen.md",
     "Teilnehmer*innen.md",
     "Untitled",
     "Planung",

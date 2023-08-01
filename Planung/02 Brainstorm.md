@@ -1,4 +1,6 @@
 - Ein Repository für die Teilnehmenden mit dem ganzen Code, den wir verwenden, sowie weitere Ressourcen, wie Git cheat sheets und co.
+- In data science als Anwendung einführen. (Nähe zur Uni)
+- In Google Colab arbeiten aber auch zeigen, wie es local funktioniert.
 # Erste Skizze 
 ## Thema  
 **Data Science, Programmieren und Computational Thinking.**
