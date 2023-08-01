@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Projektideen.md",
+                "file": "03 Teil 1 - Theorie & Grundlagen.md",
                 "mode": "source",
                 "source": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Projektideen.md",
+                "file": "03 Teil 1 - Theorie & Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 Projektideen.md",
+                "file": "03 Teil 1 - Theorie & Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Projektideen.md"
+                "file": "03 Teil 1 - Theorie & Grundlagen.md"
               }
             }
           },
@@ -214,14 +214,14 @@
   },
   "active": "42853291d6b6de0e",
   "lastOpenFiles": [
-    "04 Ressourcen & Materialien.md",
     "03 Teil 2 - Praxis & Fortgeschrittenes.md",
+    "04 Ressourcen & Materialien.md",
+    "README.md",
+    "05 Projektideen.md",
     "03 Teil 1 - Theorie & Grundlagen.md",
     "00 Überblick.md",
     "02 Brainstorm.md",
     "01 Zielstellung.md",
-    "05 Projektideen.md",
-    "README.md",
     "Konkret.md",
     "Teilnehmer*innen.md",
     "Untitled",
