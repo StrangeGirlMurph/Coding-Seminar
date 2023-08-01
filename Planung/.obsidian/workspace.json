@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Überblick.md",
+                "file": "00 Überblick.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ressourcen & Materialien.md",
+                "file": "01 Zielstellung.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressourcen & Materialien.md",
+                "file": "01 Zielstellung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ressourcen & Materialien.md",
+                "file": "01 Zielstellung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ressourcen & Materialien.md"
+                "file": "01 Zielstellung.md"
               }
             }
           },
@@ -199,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,14 +214,14 @@
   },
   "active": "42853291d6b6de0e",
   "lastOpenFiles": [
-    "README.md",
-    "Ressourcen & Materialien.md",
-    "Projektideen.md",
+    "00 Überblick.md",
     "Brainstorm.md",
-    "Überblick.md",
+    "01 Zielstellung.md",
+    "Ressourcen & Materialien.md",
+    "README.md",
+    "Projektideen.md",
     "Teil 2 - Praxis & Fortgeschrittenes.md",
     "Konkret.md",
-    "Ziel.md",
     "Teil 1 - Theorie & Grundlagen.md",
     "Teilnehmer*innen.md",
     "Untitled",
