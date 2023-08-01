@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Böll Outline.md",
+                "file": "Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e4f16a0b2dc3dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teil 1 - Theorie, Grundlagen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42853291d6b6de0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Konkret.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.50202560424805
+    "width": 266.5
   },
   "right": {
     "id": "2699d5caf689d3cb",
@@ -117,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Böll Outline.md",
+                "file": "Konkret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Böll Outline.md",
+                "file": "Konkret.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Böll Outline.md"
+                "file": "Konkret.md"
               }
             }
           },
@@ -188,18 +213,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78292c052853179d",
+  "active": "42853291d6b6de0e",
   "lastOpenFiles": [
-    "Kernidee.md",
-    "Konkret.md",
+    "Outline.md",
     "Projekte.md",
+    "Ziel.md",
+    "Brainstorm.md",
+    "Konkret.md",
     "README.md",
+    "Teil 2 - Praxis, Weiterführendes.md",
+    "Teil 1 - Theorie, Grundlagen.md",
+    "Ressourcen.md",
     "Teilnehmer*innen.md",
     "Untitled",
-    "Brainstorm.md",
-    "Böll Outline.md",
     "Planung",
-    "Ressourcen.md",
     "Hello.md"
   ]
 }
