@@ -1,0 +1,1 @@
+- Ein Repository für die Teilnehmenden mit dem ganzen Code, den wir verwenden, sowie weitere Ressourcen, wie Git cheat sheets und co.
