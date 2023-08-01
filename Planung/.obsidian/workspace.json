@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outline.md",
+                "file": "Überblick.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teil 1 - Theorie, Grundlagen.md",
+                "file": "Teil 1 - Theorie & Grundlagen.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Konkret.md",
+                "file": "Ressourcen & Materialien.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projekte.md",
+                "file": "Projektideen.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projekte.md",
+                "file": "Projektideen.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Konkret.md",
+                "file": "Ressourcen & Materialien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Konkret.md",
+                "file": "Ressourcen & Materialien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Konkret.md"
+                "file": "Ressourcen & Materialien.md"
               }
             }
           },
@@ -195,12 +195,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,15 +214,15 @@
   },
   "active": "42853291d6b6de0e",
   "lastOpenFiles": [
-    "Outline.md",
-    "Projekte.md",
-    "Ziel.md",
-    "Brainstorm.md",
-    "Konkret.md",
     "README.md",
-    "Teil 2 - Praxis, Weiterführendes.md",
-    "Teil 1 - Theorie, Grundlagen.md",
-    "Ressourcen.md",
+    "Ressourcen & Materialien.md",
+    "Projektideen.md",
+    "Brainstorm.md",
+    "Überblick.md",
+    "Teil 2 - Praxis & Fortgeschrittenes.md",
+    "Konkret.md",
+    "Ziel.md",
+    "Teil 1 - Theorie & Grundlagen.md",
     "Teilnehmer*innen.md",
     "Untitled",
     "Planung",
