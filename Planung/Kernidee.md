@@ -3,5 +3,3 @@
 - Studierenden die schon z.B. mit R oder Python in der Uni konfrontiert wurden, die Möglichkeit geben über den Tellerrand zu schauen und einen Einblick in die weite Welt da draußen zu geben.
 - Data science als Anwendung. (Nähe zur Uni)
 - In Google Colab arbeiten aber auch zeigen, wie es local funktioniert.
-
-
