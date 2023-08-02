@@ -69,6 +69,20 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "29b7dcd540dd21a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64945f37377c02e1",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,12 +230,12 @@
   },
   "active": "d95d3cd970f16a5b",
   "lastOpenFiles": [
-    "05 Projektideen.md",
+    "00 Überblick.md",
     "Präsentation.md",
+    "05 Projektideen.md",
     "03 Teil 2 - Praxis & Weiterführendes.md",
     "03 Teil 1 - Theorie & Grundlagen.md",
     "01 Zielstellung.md",
-    "00 Überblick.md",
     "02 Brainstorm.md",
     "04 Ressourcen & Materialien.md",
     "07 Umfrage.md",
