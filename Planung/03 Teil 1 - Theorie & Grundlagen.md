@@ -13,11 +13,13 @@ Einführung in die grundlegenden Konzepte der Programmierung anhand von Python.
 
 # 1.3. Das drum herum
 Was noch so alles zum programmieren gehört.
-- Ausführen von Programmen (Interpreter, Compiler)
-- Überblick über: Server, APIs usw. Was machen Programme so alles? (Kommunizieren, Rechnen, etc.)
+- Ausführen von Programmen (kurz: Interpreter, Compiler)
+- Überblick über: Terminal, APIs, Server, Libraries usw. 
+- Was machen Programme so alles? (Kommunizieren, Rechnen, etc.)
 
-## Weiterführende Theorie
-- Terminal, APIs, Libraries, kurz: Interpreter & Compiler
+## 1.3.2. Lernen
+Ein großer und wichtiger Teil vom programmieren ist es zu lernen. Niemand weiß alles. Alle lernen täglich Neues oder schauen Sachen nach. Im Internet die benötigen Informationen zu finden ist wohl die wichtigste Fähigkeit aller Programmierer\*innen. Viele schreckt gerade diese riesen große Menge an 
+
 - Wo bekomme ich Hilfe, wenn ich mal nicht weiter weiß? 
 	- Im Internet Sachen nachschauen zu können, ist der wichtigste Skill überhaupt! 
 	- Für die Basics ist ChatGPT auch echt gut tbh! Zum Beispiel für Fragen wie: "Was ist PATH?"
