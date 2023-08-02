@@ -1,7 +1,8 @@
-## Kurze Motivation
+# 1.1. Motivation
 - Warum sind Programme so bedeutend?
+- Warum ist es sinnvoll programmieren zu lernen? Wo kommen Programme alles zum 
 
-## Einführung in die grundlegenden Konzepte der Programmierung anhand von Python
+# 1.2. Einführung in die grundlegenden Konzepte der Programmierung anhand von Python
 - Was ist Python?
 - Einführung in der grundlegende Konzepte des Programmierens. 
   (Variablen, Funktionen und co.)

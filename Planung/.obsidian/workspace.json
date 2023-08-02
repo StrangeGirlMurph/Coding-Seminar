@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e117eb7a788210f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 Umfrage.md",
+                "file": "03 Teil 1 - Theorie & Grundlagen.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 266.5
   },
   "right": {
     "id": "2699d5caf689d3cb",
@@ -166,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 Umfrage.md",
+                "file": "03 Teil 1 - Theorie & Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 Umfrage.md",
+                "file": "03 Teil 1 - Theorie & Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Umfrage.md"
+                "file": "03 Teil 1 - Theorie & Grundlagen.md"
               }
             }
           },
@@ -236,11 +224,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e117eb7a788210f",
+  "active": "c16d35150cb79028",
   "lastOpenFiles": [
+    "07 Umfrage.md",
     "06 Todo.md",
     "README.md",
-    "07 Umfrage.md",
     "05 Projektideen.md",
     "02 Brainstorm.md",
     "01 Zielstellung.md",
