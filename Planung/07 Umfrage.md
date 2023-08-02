@@ -1,3 +1,6 @@
+Hier geht´s zur Umfrage:
+https://docs.google.com/forms/d/e/1FAIpQLSeQMBGmIdjujWlP7VPWaXYKZ5yOtATo5QNgUnxEwOz0cUrtbw/viewform?usp=sf_link
+
 Umfrage um die Inhalte mehr an die Teilnehmenden anpassen zu können.
 
 - Was studierst du?
