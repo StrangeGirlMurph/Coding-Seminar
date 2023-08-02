@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Teil 2 - Praxis & Weiterführendes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Teil 2 - Praxis & Weiterführendes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Teil 2 - Praxis & Weiterführendes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Teil 2 - Praxis & Weiterführendes.md"
+                "file": "README.md"
               }
             }
           },
@@ -226,8 +226,8 @@
   },
   "active": "c16d35150cb79028",
   "lastOpenFiles": [
-    "03 Teil 1 - Theorie & Grundlagen.md",
     "03 Teil 2 - Praxis & Weiterführendes.md",
+    "03 Teil 1 - Theorie & Grundlagen.md",
     "07 Umfrage.md",
     "06 Todo.md",
     "README.md",
