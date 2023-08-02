@@ -17,4 +17,5 @@ Live Coding
 Projekte
 - [ ] allgemein
 - [ ] Ideen und Links sammeln
-- [ ] erste Notebooks mit Ansätzen vorbereiten?!
+- [ ] Beispieldatensätze sammeln
+- [ ] 
