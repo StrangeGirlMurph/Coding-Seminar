@@ -1,12 +1,20 @@
 # 1.1. Motivation
 - Warum sind Programme so bedeutend?
-- Warum ist es sinnvoll programmieren zu lernen? Wo kommen Programme alles zum 
+- Warum ist es sinnvoll programmieren zu lernen? Wo kommen Programme alles zum Einsatz?
 
-# 1.2. Einführung in die grundlegenden Konzepte der Programmierung anhand von Python
+# 1.2. Grundlegenden Konzepte
+Einführung in die grundlegenden Konzepte der Programmierung anhand von Python.
+- Was ist ein Programm? Was ist programmieren? Wie funktioniert ein Programm? Was sind Programmiersprachen? (Syntax, Semantik)
 - Was ist Python?
-- Einführung in der grundlegende Konzepte des Programmierens. 
-  (Variablen, Funktionen und co.)
-	- Mit Colab zum mitverfolgen und mit Fehlern eingebaut und so.
+- Was sind Variablen, Funktionen und co?
+  (Mit Colab zum mitverfolgen und z.B. mit Fehlern eingebaut)
+- Wie führe ich ein Programm aus?
+- Was sind bugs? Lesen von Fehlermeldungen (Errors)
+
+# 1.3. Das drum herum
+Was noch so alles zum programmieren gehört.
+- Ausführen von Programmen (Interpreter, Compiler)
+- Überblick über: Server, APIs usw. Was machen Programme so alles? (Kommunizieren, Rechnen, etc.)
 
 ## Weiterführende Theorie
 - Terminal, APIs, Libraries, kurz: Interpreter & Compiler
