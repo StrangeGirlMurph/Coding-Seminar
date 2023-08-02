@@ -1,3 +1,16 @@
+### Text für Mail
+Betreeff: Böll Campus, Coding Seminar Umfrage zur Vorbereitung
+Hey,
+wir freuen uns schon sehr auf euch, den Campus und unser Coding Seminar!
+
+Zur Vorbereitung bitten wir euch diese kurze Umfrage hier aus zu füllen:
+https://docs.google.com/forms/d/e/1FAIpQLSeQMBGmIdjujWlP7VPWaXYKZ5yOtATo5QNgUnxEwOz0cUrtbw/viewform?usp=sf_link
+So können wir uns optimal vorbereiten und das Seminar auf eure Wünsche und Bedürfnisse abstimmen.
+
+LG und bis dann,
+Murphy und Arthur
+
+### Umfrage
 Hier geht´s zur Umfrage:
 https://docs.google.com/forms/d/e/1FAIpQLSeQMBGmIdjujWlP7VPWaXYKZ5yOtATo5QNgUnxEwOz0cUrtbw/viewform?usp=sf_link
 
