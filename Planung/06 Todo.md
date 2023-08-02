@@ -1,6 +1,6 @@
 Mail & Umfrage
 - [x] Umfrage erstellen
-- [ ] Deadline für Umfrage ausdenken
+- [ ] Deadline für Umfrage ausdenken: Nächste Woche Montag?
 - [ ] Mail verfassen und absenden
 - [ ] Ergebnisse sichten
 
