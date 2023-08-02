@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Präsentation.md",
+                "file": "00 Überblick.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,20 +69,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "29b7dcd540dd21a3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "64945f37377c02e1",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Präsentation.md",
+                "file": "00 Überblick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Präsentation.md",
+                "file": "00 Überblick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Präsentation.md"
+                "file": "00 Überblick.md"
               }
             }
           },
@@ -230,8 +216,8 @@
   },
   "active": "d95d3cd970f16a5b",
   "lastOpenFiles": [
-    "00 Überblick.md",
     "Präsentation.md",
+    "00 Überblick.md",
     "05 Projektideen.md",
     "03 Teil 2 - Praxis & Weiterführendes.md",
     "03 Teil 1 - Theorie & Grundlagen.md",
