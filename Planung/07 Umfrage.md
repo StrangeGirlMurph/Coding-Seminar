@@ -1,9 +1,9 @@
 ### Text für Mail
-Betreeff: Böll Campus, Coding Seminar Umfrage zur Vorbereitung
+Betreeff: Böll Campus, Coding Seminar Umfrage zur Vorbereitung, Deadline 07.08!
 Hey,
 wir freuen uns schon sehr auf euch, den Campus und unser Coding Seminar!
 
-Zur Vorbereitung bitten wir euch diese kurze Umfrage hier aus zu füllen:
+Zur Vorbereitung bitten wir euch diese kurze Umfrage hier **bis zum 07.08** aus zu füllen:
 https://docs.google.com/forms/d/e/1FAIpQLSeQMBGmIdjujWlP7VPWaXYKZ5yOtATo5QNgUnxEwOz0cUrtbw/viewform?usp=sf_link
 So können wir uns optimal vorbereiten und das Seminar auf eure Wünsche und Bedürfnisse abstimmen.
 
