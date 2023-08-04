@@ -49,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Teil 2 - Praxis & Weiterführendes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d95d3cd970f16a5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Überblick.md",
+                "file": "03 Teil 1 - Theorie & Grundlagen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Überblick.md",
+                "file": "03 Teil 1 - Theorie & Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Überblick.md",
+                "file": "03 Teil 1 - Theorie & Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Überblick.md"
+                "file": "03 Teil 1 - Theorie & Grundlagen.md"
               }
             }
           },
@@ -214,15 +202,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d95d3cd970f16a5b",
+  "active": "c16d35150cb79028",
   "lastOpenFiles": [
-    "01 Zielstellung.md",
-    "07 Umfrage.md",
-    "00 Überblick.md",
-    "Präsentation.md",
-    "05 Projektideen.md",
     "03 Teil 2 - Praxis & Weiterführendes.md",
     "03 Teil 1 - Theorie & Grundlagen.md",
+    "00 Überblick.md",
+    "01 Zielstellung.md",
+    "07 Umfrage.md",
+    "Präsentation.md",
+    "05 Projektideen.md",
     "02 Brainstorm.md",
     "04 Ressourcen & Materialien.md",
     "README.md",

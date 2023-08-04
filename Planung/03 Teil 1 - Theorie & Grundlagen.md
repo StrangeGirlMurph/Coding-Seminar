@@ -1,10 +1,17 @@
 # 1.1. Motivation
-- Warum sind Programme so bedeutend?
-- Warum ist es sinnvoll programmieren zu lernen? Wo kommen Programme alles zum Einsatz?
+- Was ist ein Programm?
+  Ein Computerprogramm ist eine Folge von Anweisungen um Aufgaben mithilfe eines Computers zu lösen. Programme sind die Schnittstelle zwischen Mensch und Computer. Sie bilden das Medium mit dem Menschen mit Computern kommunizieren und diesen Aufgaben geben können.
+- Was ist programmieren?
+  Programmieren ist die Tätigkeit Programm zu schreiben.
+- Warum sind Programme so bedeutend? Wo kommen Programme alles zum Einsatz? 
+  Unsere digitalisierte Welt baut fundamental auf Millionen von Programmen auf, die massiv unseren Alltag gestalten. Das gesamte Informationszeitalter mit der größten Erfindung des 20. Jahrhunderts, dem Internet, beruht auf Programmen. Programme lassen uns kommunizieren, Informationen austauschen, forschen und so vieles mehr.
+- Warum ist es sinnvoll programmieren zu lernen?
+  Programme sind so unglaublich wichtig für unsere Welt, da sie in Kombination mit Computer einfach ein unglaublich mächtiges Werkzeug sind. Durch Programme sind Computer imstande Aufgaben von Menschen zu übernehmen und das absolut Fehlerfrei und in unglaublich großen Maßstäben, die weit über die Fähigkeiten der Menschheit hinaus reichen. 
+  
 
 # 1.2. Grundlegenden Konzepte
 Einführung in die grundlegenden Konzepte der Programmierung anhand von Python.
-- Was ist ein Programm? Was ist programmieren? Wie funktioniert ein Programm? Was sind Programmiersprachen? (Syntax, Semantik)
+- Wie funktioniert ein Programm? Was sind Programmiersprachen? (Syntax, Semantik)
 - Was ist Python?
 - Was sind Variablen, Funktionen und co?
   (Mit Colab zum mitverfolgen und z.B. mit Fehlern eingebaut)
