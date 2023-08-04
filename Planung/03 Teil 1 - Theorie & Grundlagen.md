@@ -25,17 +25,26 @@ Wichtig: Programmieren lernt Mensch indem Mensch programmiert. Deshalb praktisch
 - Was sind Variablen, Funktionen und co?
   (Mit Colab zum mitverfolgen und z.B. mit Fehlern eingebaut)
 - Wie führe ich ein Programm aus?
-  Menschen haben Programme geschrieben um zu überprüfen, ob unser Text valide in der Sprache ist, ihn zu übersetzten und ihn auszuführen. Darum müssen wir uns also nicht kümmern. Wir müssen nur sinnvollen Text schreiben.
+  Menschen haben Programme geschrieben um zu überprüfen, ob unser Text (Code) valide in der Sprache ist, ihn zu übersetzten und ihn auszuführen. Darum müssen wir uns also nicht kümmern. Wir müssen nur sinnvollen Text schreiben.
 - Was sind bugs? Lesen von Fehlermeldungen (Errors)
   Zum Glück müssen wir nicht gleich die Sprache perfekt sprechen können. Wir werden stehts auf Fehler hingewiesen. Wenn irgendetwas dabei schief geht, wir zum Beispiel ein Wort benutzen, dass es gar nicht in der Sprache gibt, bekommen wir eine Fehlermeldung/ein Error.
+- Was sind Bibliotheken/Libraries?
+  Libraries sind einfach nur Sammlungen von Code, die wir in unseren Programmen benutzten und importieren können. Statt alle Funktionen immer von selbst zu schreiben haben viele Tolle Menschen eben libraries geschrieben, dessen Funktionen wir direkt in unserem Programmcode benutzen können als hätten wir sie selbst geschrieben. Libraries machen Programme unglaublich mächtig (Eine Person schreibt und alle profitieren davon).
 
 # 1.3. Das drum herum
 ## 1.3.1. Überblick
 Das Programmieren ist zwar eigentlich nur das Schreiben des Programms alles des Programmtextes allerdings gehört in der Praxis noch deutlich mehr dazu. Schließlich wollen wir unser Programm ja gerne auch ausführen (was auch echt eine Herausforderung sein kann), verwalten, mit anderen Teilen, etc. Außerdem gibt es so viele Programme, die wir schreiben können.
 
-- Ausführen von Programmen (kurz: Interpreter, Compiler)
-- Überblick über: Terminal, APIs, Server, Libraries usw. 
-- Was machen Programme so alles? (Kommunizieren, Rechnen, etc.)
+- Was sind Server?
+  Server sind einfach Computer, die praktisch permanent laufen und Programme ausführen.
+- Was ist ein Terminal?
+  Ein Terminal/die Konsole ist ein Programm in dem wir durch ein weiteres Programm, die Shell, mit dem Betriebssystem kommunizieren können und Anweisungen abgeben können. Das Wort Terminal wird häufig einfach genutzt um die Shell und die "Benutzeroberfläche" zu bezeichnen. Machen wir auch. Das Terminal ermöglicht es uns mit einfachen Text commands mit Programmen auf unserem Computer zu interagieren und das sehr gezielt und ohne die Maus und GUIs. 
+  Zum Beispiel benutzt Mensch fast immer ein Terminal mit einem Command um den Programmcode auf deinem Computer auszuführen. (Colab ist eine Ausnahme. Da haben wir Knöpfe.)
+- Was machen Programme so alles?
+  Programme werden vor allem dazu genutzt Daten und Informationen auszutauschen. Also zu kommunizieren. Sonst werden Programme genutzt um grob gesagt zu rechnen und berechnen sowie Computer zu verwalten und ähnliches. Praktisch alles was ihr euch digital so vorstellen könnt. Niemand kriecht in einem Computer um da die Festplatte manuell einzustellen.
+- Was sind APIs?
+  Das Internet ist das ultimative Kommunikationstool. Programme übernehmen im Internet die gesamte Kommunikation. Damit Programme mit anderen Programmen kommunizieren können gibt es APIs (Application Programming Interfaces). Sie bilden die Schnittstelle um mit einander zu kommunizieren (Nach dem Schema: Wenn du das von mir willst, musst du so Fragen.) APIs haben die Welt revolutioniert. Jetzt brauchen nicht mehr Menschen mit Programmen interagieren, sondern sie können einfach untereinander interagieren.
+  Zum Beispiel organisiert deine Wetter-App für dich die Daten der Wetterdienste von dessen Servern. 
 
 ## 1.3.2. Lernen
 Ein großer und wichtiger Teil vom programmieren ist es zu lernen. Niemand weiß alles. Alle lernen täglich Neues oder schauen Sachen nach. Im Internet die benötigen Informationen zu finden ist wohl die wichtigste Fähigkeit aller Programmierer\*innen. Viele schreckt gerade diese riesen große Menge an Infos ab. Gelernt wird Stück für Stück! Und alles kann immer und jeder Zeit nachgeschaut werden. Niemand liest von vorne bis hinten die Python Dokumentation sondern Mensch eignet sich eben das an, was gerade gebraucht wird. Learning by doing ist das Motto! Gelernt wird auch besonders davon, wie Andere das selbe Problem gelöst haben. Mensch hangelt sich einfach von Ast zu Ast.

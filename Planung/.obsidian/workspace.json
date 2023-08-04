@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Projektideen.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c16d35150cb79028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Teil 1 - Theorie & Grundlagen.md",
+                "file": "07 Umfrage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Teil 1 - Theorie & Grundlagen.md",
+                "file": "07 Umfrage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Teil 1 - Theorie & Grundlagen.md",
+                "file": "07 Umfrage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Teil 1 - Theorie & Grundlagen.md"
+                "file": "07 Umfrage.md"
               }
             }
           },
@@ -183,11 +171,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
+    "width": 351.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -202,19 +190,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c16d35150cb79028",
+  "active": "42853291d6b6de0e",
   "lastOpenFiles": [
+    "05 Projektideen.md",
     "03 Teil 2 - Praxis & Weiterführendes.md",
     "03 Teil 1 - Theorie & Grundlagen.md",
+    "04 Ressourcen & Materialien.md",
+    "06 Todo.md",
+    "07 Umfrage.md",
     "00 Überblick.md",
     "01 Zielstellung.md",
-    "07 Umfrage.md",
     "Präsentation.md",
-    "05 Projektideen.md",
     "02 Brainstorm.md",
-    "04 Ressourcen & Materialien.md",
     "README.md",
-    "06 Todo.md",
     "Konkret.md",
     "Teilnehmer*innen.md",
     "Untitled",
