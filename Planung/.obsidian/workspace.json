@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Umfrage.md",
+                "file": "00 Überblick.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 Umfrage.md",
+                "file": "00 Überblick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 Umfrage.md",
+                "file": "00 Überblick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Umfrage.md"
+                "file": "00 Überblick.md"
               }
             }
           },
@@ -216,15 +216,15 @@
   },
   "active": "d95d3cd970f16a5b",
   "lastOpenFiles": [
+    "01 Zielstellung.md",
+    "07 Umfrage.md",
     "00 Überblick.md",
     "Präsentation.md",
     "05 Projektideen.md",
     "03 Teil 2 - Praxis & Weiterführendes.md",
     "03 Teil 1 - Theorie & Grundlagen.md",
-    "01 Zielstellung.md",
     "02 Brainstorm.md",
     "04 Ressourcen & Materialien.md",
-    "07 Umfrage.md",
     "README.md",
     "06 Todo.md",
     "Konkret.md",
