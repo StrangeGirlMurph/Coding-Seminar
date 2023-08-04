@@ -2,16 +2,14 @@
 
 ### Zusammenfassung der Umfrageergebnisse
 #### Vorkenntnisse?
-Nein: 4x
-wenig Python, bisschen R, basic Java
+4x Nein, wenig Python, bisschen R, basic Java, etwas Matlab
 #### Wünsche
--  danach selber Programmieren(Python, C++, SQL) lernen können: 3x
+-  danach selber Programmieren(Python, C++, SQL) lernen können: 4x
 -  Übersicht über Programmiersprachen
 -  eigene praktische Erfahrung
 -  Statistikprogramme (vermutlich R) besser verstehen
 
-
-Hier geht´s zur Umfrage:
+Hier geht es zur Umfrage:
 https://docs.google.com/forms/d/e/1FAIpQLSeQMBGmIdjujWlP7VPWaXYKZ5yOtATo5QNgUnxEwOz0cUrtbw/viewform?usp=sf_link
 
 Umfrage um die Inhalte mehr an die Teilnehmenden anpassen zu können.
