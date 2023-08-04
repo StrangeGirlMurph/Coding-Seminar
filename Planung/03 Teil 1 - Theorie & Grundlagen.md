@@ -12,15 +12,27 @@
 # 1.2. Grundlegenden Konzepte
 Einführung in die grundlegenden Konzepte der Programmierung anhand von Python.
 - Wie funktioniert ein Programm? Was sind Programmiersprachen? (Syntax, Semantik)
+  Der Computer versteht grundlegend nur ganz fundamentale Anweisungen in Form von Binärcodes. Alle diese möglichen Binärcodes bilden die Maschinensprache. Zum Beispiel entspricht die Binärzahl 000011000111010001011111110000000010 der Anweisung die Zahl 2 in eine bestimmte Speicherstelle zu laden (in x86 Prozessoren). 
+  Syntax: Welche Zeichenketten sind (valide) Programme in der Programmiersprache.
+  Semantik: Welche Bedeutung haben diese bzw. einzelne Zeichenketten.
+  Also was für Wörter, Sätze, Texte gehören zu unserer Sprache und was bedeuten diese.
+  Programmiersprachen sind also Sprachen mit ihrer eigenen Syntax und Semantik. Da aber Computer eben grundsätzlich nur Maschinensprache verstehen, müssen alle Programme (egal in welcher Sprache) vor dem Ausführen zunächst in Maschinensprache übersetzt werden. Fundamental unterscheiden sich Programmiersprachen vor allem darin, auf welcher Abstraktionsebene, also wie "weit" sie von der Maschinensprache entfernt sind. Wir sprechen von low-level und high-level. Low-level Programmiersprachen haben benutzen Wörter, die nah an der Maschinensprache sind und ein Ausdruck in dessen Bedeutung vielleicht einigen Hunderten Anweisungen entspricht. High-level Programmiersprachen sind deutlich leichter für uns Menschen zu verstehen und zu benutzen, da sie Ausdrücke für ganz Abstrakte Anweisungen beinhalten, die in Maschinensprache übersetzt, tausenden Wörter entsprechen.
+  Zum Glück sind Programmiersprachen nicht so kompliziert wie gesprochene Sprachen und sind sich häufig sehr ähnlich. 
 - Was ist Python?
+  Python ist die beliebteste/meist benutze (sehr) high-level Programmiersprache. Sie ist sehr leicht zu verstehen und lernen. Sie wird unglaublich viel für Data Science, Machine Learning genutzt und ist perfekt für den Alltagsgebrauch geeignet. Ob Roboter steuern oder kleine Rätsel lösen. Python ist überhaupt nicht geeignet für große Infrastruktur-Projekte oder sehr effiziente Programme. Python ist so abstrakt, dass den Programmierer\*innen wenig Kontrolle über die tatsächlichen Maschinencode bleibt. Stellt es euch so vor: Je weiter wir uns von der Maschinensprache entfernen mit unserer Programmiersprache, desto schwieriger wird es 1:1 jedes Wort perfekt zu übersetzten. 
+
+Wichtig: Programmieren lernt Mensch indem Mensch programmiert. Deshalb praktisch zum mitverfolgen in interaktiven Notebook.
 - Was sind Variablen, Funktionen und co?
   (Mit Colab zum mitverfolgen und z.B. mit Fehlern eingebaut)
 - Wie führe ich ein Programm aus?
+  Menschen haben Programme geschrieben um zu überprüfen, ob unser Text valide in der Sprache ist, ihn zu übersetzten und ihn auszuführen. Darum müssen wir uns also nicht kümmern. Wir müssen nur sinnvollen Text schreiben.
 - Was sind bugs? Lesen von Fehlermeldungen (Errors)
+  Zum Glück müssen wir nicht gleich die Sprache perfekt sprechen können. Wir werden stehts auf Fehler hingewiesen. Wenn irgendetwas dabei schief geht, wir zum Beispiel ein Wort benutzen, dass es gar nicht in der Sprache gibt, bekommen wir eine Fehlermeldung/ein Error.
 
 # 1.3. Das drum herum
 ## 1.3.1. Überblick
-Was noch so alles zum programmieren gehört.
+Das Programmieren ist zwar eigentlich nur das Schreiben des Programms alles des Programmtextes allerdings gehört in der Praxis noch deutlich mehr dazu. Schließlich wollen wir unser Programm ja gerne auch ausführen (was auch echt eine Herausforderung sein kann), verwalten, mit anderen Teilen, etc. Außerdem gibt es so viele Programme, die wir schreiben können.
+
 - Ausführen von Programmen (kurz: Interpreter, Compiler)
 - Überblick über: Terminal, APIs, Server, Libraries usw. 
 - Was machen Programme so alles? (Kommunizieren, Rechnen, etc.)
