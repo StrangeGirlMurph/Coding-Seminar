@@ -9,6 +9,7 @@
 -  eigene praktische Erfahrung
 -  Statistikprogramme (vermutlich R) besser verstehen
 -  Hürden abbauen sich selbstständig ans Programmieren zu wagen. Aktuell fühle ich mich da einfach zu inkompetent zu.
+-  Einfluss von AI auf Coding/Jobs in dem Bereich?
 
 #### Eigene Projekte
 -  Wir haben im Labor ein Datenauswertungsproblem (viele Kurven, die zusammen ausgewertet werden müssen), das man eigentlich automatisieren könnte - aktuell nutzen wir eine wilde Mischung aus excel und origin. MATLAB will ich nicht nutzen, weil wir keine Lizenz haben. Vielleicht bringe ich mal einen Datensatz mit und wir können uns das zusammen anschauen? 
