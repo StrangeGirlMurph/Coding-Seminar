@@ -30,7 +30,7 @@ Wichtig: Programmieren lernt Mensch indem Mensch programmiert. Deshalb praktisch
 - Was sind Bibliotheken/Libraries?
   Libraries sind einfach nur Sammlungen von Code, die wir in unseren Programmen benutzten und importieren können. Statt alle Funktionen immer von selbst zu schreiben haben viele Tolle Menschen eben libraries geschrieben, dessen Funktionen wir direkt in unserem Programmcode benutzen können als hätten wir sie selbst geschrieben. Libraries machen Programme unglaublich mächtig (Eine Person schreibt und alle profitieren davon).
 
-# 1.3. Das Drumherum
+# 1.3. Die Welt Drumherum
 ## 1.3.1. Überblick
 Das Programmieren ist zwar eigentlich nur das Schreiben des Programms alles des Programmtextes allerdings gehört in der Praxis noch deutlich mehr dazu. Schließlich wollen wir unser Programm ja gerne auch ausführen (was auch echt eine Herausforderung sein kann), verwalten, mit anderen Teilen, etc. Außerdem gibt es so viele Programme, die wir schreiben können.
 
