@@ -4,6 +4,7 @@
 - Wer sind wir? Wie ist es zu diesem Seminar gekommen (Backstory)? 
 - Wer sind die Teilnehmenden? Mit welchem Background und wie viel Programmiererfahrung kommt ihr? 
   (Kurze Vorstellungsrunde + Namensschilder)
+- Wir kommen alle aus unterschiedlichen Orten :)
 # 0.3. Inhaltlicher Überblick & Format des Seminars
 - Was haben wir vor?
 - Wie teilen wir die Zeit ein?
