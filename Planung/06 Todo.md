@@ -15,9 +15,9 @@ Live Coding
 - [ ] kleine Aufgaben für zwischendurch einbauen
 
 Projekte
-- [ ] allgemein
 - [ ] Ideen und Links sammeln
 - [ ] Beispieldatensätze sammeln
+- [ ] Notebooks und Gerüst vorbereiten
 
 Nachgang
 - [ ] Weiterführende Ressourcen anbieten
