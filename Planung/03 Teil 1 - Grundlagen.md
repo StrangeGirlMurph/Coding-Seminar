@@ -8,8 +8,7 @@
 - Warum ist es sinnvoll programmieren zu lernen?
   Programme sind so unglaublich wichtig für unsere Welt, da sie in Kombination mit Computer einfach ein unglaublich mächtiges Werkzeug sind. Durch Programme sind Computer imstande Aufgaben von Menschen zu übernehmen und das absolut Fehlerfrei und in unglaublich großen Maßstäben, die weit über die Fähigkeiten der Menschheit hinaus reichen. 
   
-
-# 1.2. Grundlegenden Konzepte
+# 1.2. Grundlagen anhand von Python
 Einführung in die grundlegenden Konzepte der Programmierung anhand von Python.
 - Wie funktioniert ein Programm? Was sind Programmiersprachen? (Syntax, Semantik)
   Der Computer versteht grundlegend nur ganz fundamentale Anweisungen in Form von Binärcodes. Alle diese möglichen Binärcodes bilden die Maschinensprache. Zum Beispiel entspricht die Binärzahl 000011000111010001011111110000000010 der Anweisung die Zahl 2 in eine bestimmte Speicherstelle zu laden (in x86 Prozessoren). 
@@ -51,6 +50,8 @@ Das Programmieren ist zwar eigentlich nur das Schreiben des Programms alles des 
   Linux Betriebssysteme sind wie Windows und MacOS Betriebssysteme für Computer. Sie sind vor allem bei Programmierer\*innen beliebt, da mit Linux zu arbeiten viele Arbeitsabläufe sehr vereinfacht und mehr Kontrolle über den eigenen Computer ermöglicht. Es gibt ganz viele verschiedene "Distributionen" (Betriebssysteme), die auf dem Linux Kernel, also dem Herzen eines Betriebssystems, aufbauen. Den Linux Kernel haben wir vor allem Linus Torvalds zu verdanken. Ein sehr wichtiger Typ in unserer Welt.
 - Was sind Git und GitHub?
   Git ist Linus Torvalds zweites Lebenswerk. Git ist, was wir ein version control system nennen. Ein Programm, welches die Verwaltung unseres Codes und dessen verschiedenen Versionen ermöglicht. Wir programmieren zu Beginn einfach nur in höchstens ein paar Dateien, wo es leicht ist einen Überblick über Veränderungen zu haben. Der Linux Kernel bestand in 2020 zum Beispiel aber aus über 27,8 Millionen Zeilen Code. Diese wurden alle von Menschen geschrieben. Um also große Projekte zu verwalten und zum Beispiel bei Fehler leicht zu alten Versionen zurück zu springen braucht es ein version control system. Git ist dafür der absolute Standard. Code wird dabei in sogenannten Repositories verwaltet. GitHub ist ein online Dienst von Microsoft um Git Repositories über das Internet zu teilen und mit anderen Zusammenzuarbeiten. 
+- Was sind editors/IDEs?
+  
 
 
 ## 1.3.2. Lernen
