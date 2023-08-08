@@ -9,3 +9,5 @@
 	- Z.B. ein Data Science Aufgabe, eine für alltägliches und co.
 	- Wir betreuen. Und alle können entsprechend ihres Gebietes und ihrer Interesses sich etwas aussuchen.
 	- Verschiedene Schwierigkeitsgrade!
+
+# 2.3. Abschluss Projekt Sharing
