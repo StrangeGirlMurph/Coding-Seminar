@@ -9,7 +9,7 @@
 | International Environmental Studies   | Klimastatistiken       |Agent based modelling: social, natural, governance |
 | Angewandte Politikwissenschaften      | Statistik              |Text Analysis: Sentiment, Topics / Opinion modelling? |
 | Jura                                  | Kriminalstatistiken    |Document review, Process automation,  |
-| Europäische Sprachen                  | Linguistik             |Text Analysis|
+| Europäische Sprachen                  | Linguistik / "Kopropa" sprachl. Datenbank)    |Text Analysis|
 
 # Allgemeine Projektideen
 - supervised learning (z.B. digit, fashion oder sign language MNIST dataset)
