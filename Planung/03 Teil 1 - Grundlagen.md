@@ -24,9 +24,13 @@ Python ist die beliebteste/meist benutze (sehr) high-level Programmiersprache. S
 
 ### Grundlegende Konzepte in Colab
 Wichtig: Programmieren lernt Mensch indem Mensch programmiert. Deshalb praktisch zum mitverfolgen in interaktiven Notebook. (Mit Colab/Jupyter zum mitverfolgen und z.B. mit Fehlern eingebaut)
-- Variablen
+- Variablen (Bezeichnung für einen Speicherplatz)
+  Deklarieren/Initialisieren, Operationen
+- Schleifen
+  for-loop, while-loop
+- Bedingungen
+  if, else if, else, boolesche Operatoren 
 - Funktionen
-- 
 
 - Wie führe ich ein Programm aus?
   Menschen haben Programme geschrieben um zu überprüfen, ob unser Text (Code) valide in der Sprache ist, ihn zu übersetzten und ihn auszuführen. Darum müssen wir uns also nicht kümmern. Wir müssen nur sinnvollen Text schreiben.
