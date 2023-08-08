@@ -22,10 +22,12 @@ Zum Glück sind Programmiersprachen nicht so kompliziert wie gesprochene Sprache
 ### Was ist Python? Warum Python?
 Python ist die beliebteste/meist benutze (sehr) high-level Programmiersprache. Sie ist sehr leicht zu verstehen und lernen. Sie wird unglaublich viel für Data Science, Machine Learning genutzt und ist perfekt für den Alltagsgebrauch geeignet. Ob Roboter steuern oder kleine Rätsel lösen. Python ist überhaupt nicht geeignet für große Infrastruktur-Projekte oder sehr effiziente Programme. Python ist so abstrakt, dass den Programmierer\*innen wenig Kontrolle über die tatsächlichen Maschinencode bleibt. Stellt es euch so vor: Je weiter wir uns von der Maschinensprache entfernen mit unserer Programmiersprache, desto schwieriger wird es 1:1 jedes Wort perfekt zu übersetzten. 
 
-### Programmieren
-Wichtig: Programmieren lernt Mensch indem Mensch programmiert. Deshalb praktisch zum mitverfolgen in interaktiven Notebook.
-- Was sind Variablen, Funktionen und co?
-  (Mit Colab zum mitverfolgen und z.B. mit Fehlern eingebaut)
+### Grundlegende Konzepte in Colab
+Wichtig: Programmieren lernt Mensch indem Mensch programmiert. Deshalb praktisch zum mitverfolgen in interaktiven Notebook. (Mit Colab/Jupyter zum mitverfolgen und z.B. mit Fehlern eingebaut)
+- Variablen
+- Funktionen
+- 
+
 - Wie führe ich ein Programm aus?
   Menschen haben Programme geschrieben um zu überprüfen, ob unser Text (Code) valide in der Sprache ist, ihn zu übersetzten und ihn auszuführen. Darum müssen wir uns also nicht kümmern. Wir müssen nur sinnvollen Text schreiben.
 - Was sind bugs? Lesen von Fehlermeldungen (Errors)
