@@ -9,4 +9,5 @@
 	- Z.B. ein Data Science Aufgabe, eine für alltägliches und co.
 	- Wir betreuen. Und alle können entsprechend ihres Gebietes und ihrer Interesses sich etwas aussuchen.
 	- Verschiedene Schwierigkeitsgrade!
-	- Wer fertig ist bzw. möchte kann eigenständig Python auch lokal installieren bzw. sich zu weiteren Schritten beraten lassen.
+
+# 2.3. Abschluss Projekt Sharing
