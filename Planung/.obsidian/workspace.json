@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Teil 1 - Grundlagen.md",
+                "file": "03 Teil 2 - Projekte.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Teil 1 - Grundlagen.md",
+                "file": "03 Teil 2 - Projekte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Teil 1 - Grundlagen.md",
+                "file": "03 Teil 2 - Projekte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Teil 1 - Grundlagen.md"
+                "file": "03 Teil 2 - Projekte.md"
               }
             }
           },
@@ -167,14 +167,14 @@
   },
   "active": "78292c052853179d",
   "lastOpenFiles": [
-    "03 Teil 2 - Projekte (1).md",
-    "03 Teil 1 - Grundlagen.md",
-    "03 Teil 1 - Grundlagen (1).md",
+    "03 Teil 0 - Beginn.md",
     "03 Teil 2 - Projekte.md",
+    "03 Teil 1 - Grundlagen.md",
+    "03 Teil 2 - Projekte (1).md",
+    "03 Teil 1 - Grundlagen (1).md",
     "02 Brainstorm.md",
     "04 Ressourcen & Materialien.md",
     "00 Überblick.md",
-    "03 Teil 0 - Beginn.md",
     "05 Projektideen.md",
     "07 Umfrage.md",
     "06 Todo.md",
