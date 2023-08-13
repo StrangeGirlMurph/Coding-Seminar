@@ -13,3 +13,9 @@ Unser Ziel mit dem Seminar ist es, den Teilnehmenden die Angst vor dem Programmi
 - _Materialien_ enthält Ressourcen für die Teilnehmende um weiterführende Informationen zu erhalten bzw. eigenständig zu lernen.
 - _Projekte_ enthält die Code Dateien mit den praktischen Programmierprojekten.
 - _Planung_ enthält den Obsidian Vault mit unseren Notizen zu dem Inhalt und der Planung des Seminars.
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). ([legalcode](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode))
+
+![cc-icon](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
