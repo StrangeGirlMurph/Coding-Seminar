@@ -5,13 +5,11 @@ Mail & Umfrage
 - [x] Ergebnisse sichten
 
 Präsi
-- [ ] Inhalte
-- [ ] Aufteilung Murphy/Arthur
-- [ ] Slides
+- [ ] Slides fertigstellen
+
 
 Live Coding
-- [ ] Google Colab aufsetzen
-- [ ] Beispiele aus Präsi in Notebooks einpflegen
+- [ ] Einführung in Python.ipynb fertig stellen
 - [ ] kleine Aufgaben für zwischendurch einbauen
 
 Projekte
