@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "03 Teil 1 - Grundlagen.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 229.49999618530273
   },
   "right": {
     "id": "2699d5caf689d3cb",
