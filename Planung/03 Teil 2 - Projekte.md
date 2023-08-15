@@ -6,7 +6,7 @@
 
 # 2.2. Coding Challenges 
 - Im praktischen Teil konkrete Challenges für die Teilnehmende 
-	- Z.B. ein Data Science Aufgabe, eine für alltägliches und co.
+	- Z.B. ein Data Science Aufgabe, eine für# alltägliches und co.
 	- Wir betreuen. Und alle können entsprechend ihres Gebietes und ihrer Interesses sich etwas aussuchen.
 	- Verschiedene Schwierigkeitsgrade!
 	- Wer fertig ist bzw. möchte kann eigenständig Python auch lokal installieren bzw. sich zu weiteren Schritten beraten lassen.

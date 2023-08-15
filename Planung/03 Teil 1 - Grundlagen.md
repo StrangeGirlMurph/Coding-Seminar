@@ -65,7 +65,6 @@ Programmcode nennen wir open-source, wenn dieser frei eingesehen, modifiziert un
 
 ### Was sind JSON und Markdown?
 
-
 ## 1.3.3. Lernen
 Ein großer und wichtiger Teil vom programmieren ist es zu lernen. Niemand weiß alles. Alle lernen täglich Neues oder schauen Sachen nach. Im Internet die benötigen Informationen zu finden ist wohl die wichtigste Fähigkeit aller Programmierer\*innen. Viele schreckt gerade diese riesen große Menge an Infos ab. Gelernt wird Stück für Stück! Und alles kann immer und jeder Zeit nachgeschaut werden. Niemand liest von vorne bis hinten die Python Dokumentation sondern Mensch eignet sich eben das an, was gerade gebraucht wird. Learning by doing ist das Motto! Gelernt wird auch besonders davon, wie Andere das selbe Problem gelöst haben. Mensch hangelt sich einfach von Ast zu Ast.
 ### Wo/Wie finde ich Antworten?
