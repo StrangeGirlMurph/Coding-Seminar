@@ -8,6 +8,14 @@ Eine Einführung in die Welt Programmierung in Form eines sechsstündigen Semina
 
 Unser Ziel mit dem Seminar ist es, den Teilnehmenden die Angst vor dem Programmieren (das sie vielleicht schon aus dem Studium kennen) zu nehmen und ein Sprungbrett in die Welt der Programmierung zu sein. Wir wollen vermitteln wie unglaublich nützlich Programmierskills sind.
 
+## Next Steps
+
+Wenn du nicht weißt wie: Nachschauen!
+
+1. Installiere einen code editor (empfehlen sehr stark Visual Studio Code)
+2. Installiere den Python Interpreter (Übersetzer)
+3. Schreibe eine kleine Python (`.py`) Datei und führe sie aus
+
 ## Struktur
 
 - _Materialien_ enthält Ressourcen für die Teilnehmende um weiterführende Informationen zu erhalten bzw. eigenständig zu lernen.
