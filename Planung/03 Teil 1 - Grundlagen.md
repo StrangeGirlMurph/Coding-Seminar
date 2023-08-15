@@ -7,6 +7,8 @@
   Unsere digitalisierte Welt baut fundamental auf Millionen von Programmen auf, die massiv unseren Alltag gestalten. Das gesamte Informationszeitalter mit der größten Erfindung des 20. Jahrhunderts, dem Internet, beruht auf Programmen. Programme lassen uns kommunizieren, Informationen austauschen, forschen und so vieles mehr.
 - Warum ist es sinnvoll programmieren zu lernen?
   Programme sind so unglaublich wichtig für unsere Welt, da sie in Kombination mit Computer einfach ein unglaublich mächtiges Werkzeug sind. Durch Programme sind Computer imstande Aufgaben von Menschen zu übernehmen und das absolut Fehlerfrei und in unglaublich großen Maßstäben, die weit über die Fähigkeiten der Menschheit hinaus reichen. 
+- Was machen Programme so alles?
+  Programme werden vor allem dazu genutzt Daten und Informationen auszutauschen. Also zu kommunizieren. Sonst werden Programme genutzt um grob gesagt zu rechnen und berechnen sowie Computer zu verwalten und ähnliches. Praktisch alles was ihr euch digital so vorstellen könnt. Niemand kriecht in einem Computer um da die Festplatte manuell einzustellen.
 
 # 1.2. Grundlagen anhand von Python
 ### Wie funktioniert ein Programm?
@@ -56,8 +58,6 @@ Zum Beispiel benutzt Mensch fast immer ein Terminal mit einem Command um den Pro
 ## 1.3.2. *Miscellaneous*
 ### Was sind Server?
 Server sind einfach Computer, die praktisch permanent laufen und Programme ausführen.
-### Was machen Programme so alles?
-Programme werden vor allem dazu genutzt Daten und Informationen auszutauschen. Also zu kommunizieren. Sonst werden Programme genutzt um grob gesagt zu rechnen und berechnen sowie Computer zu verwalten und ähnliches. Praktisch alles was ihr euch digital so vorstellen könnt. Niemand kriecht in einem Computer um da die Festplatte manuell einzustellen.
 ### Was sind APIs?
 Das Internet ist das ultimative Kommunikationstool. Programme übernehmen im Internet die gesamte Kommunikation. Damit Programme mit anderen Programmen kommunizieren können gibt es APIs (Application Programming Interfaces). Sie bilden die Schnittstelle um mit einander zu kommunizieren (Nach dem Schema: Wenn du das von mir willst, musst du so Fragen.) APIs haben die Welt revolutioniert. Jetzt brauchen nicht mehr Menschen mit Programmen interagieren, sondern sie können einfach untereinander interagieren. Zum Beispiel organisiert deine Wetter-App für dich die Daten der Wetterdienste von dessen Servern.
 ### Was sind Open-Source-Projekte?
